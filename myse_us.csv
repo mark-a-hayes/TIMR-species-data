@@ -1,0 +1,884 @@
+Id,Date,Site,County,State,Species,Sex,Age,Reproduction,Forearm,Weight,Data Project
+365,00:00.0,"Dunbar Cave (Montgomery), Montgomery, United States","Montgomery, US.TN",Tennessee,Myotis septentrionalis,Female,Adult,Unknown,,,Bat Population Database Published Data Project
+364,00:00.0,"Dunbar Cave (Montgomery), Montgomery, United States","Montgomery, US.TN",Tennessee,Myotis septentrionalis,Male,Adult,Unknown,,,Bat Population Database Published Data Project
+366,00:00.0,"Dunbar Cave (Montgomery), Montgomery, United States","Montgomery, US.TN",Tennessee,Myotis septentrionalis,Female,Adult,Unknown,,,Bat Population Database Published Data Project
+367,00:00.0,"Dunbar Cave (Montgomery), Montgomery, United States","Montgomery, US.TN",Tennessee,Myotis septentrionalis,Female,Adult,Unknown,,,Bat Population Database Published Data Project
+368,00:00.0,"Dunbar Cave (Montgomery), Montgomery, United States","Montgomery, US.TN",Tennessee,Myotis septentrionalis,Male,Adult,Unknown,,,Bat Population Database Published Data Project
+985,00:00.0,"Grindstaff Cave (Carter), Carter, United States, FS, Cherokee National Forest","Carter, US.TN",Tennessee,Myotis septentrionalis,Unknown,Adult,Unknown,,,Bat Population Database Published Data Project
+983,00:00.0,"Grindstaff Cave (Carter), Carter, United States, FS, Cherokee National Forest","Carter, US.TN",Tennessee,Myotis septentrionalis,Unknown,Adult,Unknown,,,Bat Population Database Published Data Project
+987,00:00.0,"East Fork Saltpeter Cave (Fentress), Fentress, United States","Fentress, US.TN",Tennessee,Myotis septentrionalis,Unknown,Adult,Unknown,,,Bat Population Database Published Data Project
+1123,00:00.0,"Ponca State Park (Dixon), Dixon, United States","Dixon, US.NE",Nebraska,Myotis septentrionalis,Male,Adult,Unknown,,,Bat Population Database Published Data Project
+1110,00:00.0,"Anderson Bridge Wildlife Management Area (Cherry), Cherry, United States","Cherry, US.NE",Nebraska,Myotis septentrionalis,Female,Adult,Unknown,,,Bat Population Database Published Data Project
+1111,00:00.0,"Anderson Bridge Wildlife Management Area (Cherry), Cherry, United States","Cherry, US.NE",Nebraska,Myotis septentrionalis,Male,Adult,Unknown,,,Bat Population Database Published Data Project
+1114,00:00.0,"Floodplain of Niobrara River (Cherry), Cherry, United States","Cherry, US.NE",Nebraska,Myotis septentrionalis,Female,Adult,Unknown,,,Bat Population Database Published Data Project
+1115,00:00.0,"Floodplain of Niobrara River (Cherry), Cherry, United States","Cherry, US.NE",Nebraska,Myotis septentrionalis,Female,Adult,Unknown,,,Bat Population Database Published Data Project
+1116,00:00.0,"Floodplain of Niobrara River (Cherry), Cherry, United States","Cherry, US.NE",Nebraska,Myotis septentrionalis,Male,Adult,Unknown,,,Bat Population Database Published Data Project
+1117,00:00.0,"Floodplain of Niobrara River (Cherry), Cherry, United States","Cherry, US.NE",Nebraska,Myotis septentrionalis,Female,Adult,Lactating,,,Bat Population Database Published Data Project
+1118,00:00.0,"Floodplain of Niobrara River (Cherry), Cherry, United States","Cherry, US.NE",Nebraska,Myotis septentrionalis,Female,Adult,Lactating,,,Bat Population Database Published Data Project
+1120,00:00.0,"Floodplain of Niobrara River (Cherry), Cherry, United States","Cherry, US.NE",Nebraska,Myotis septentrionalis,Female,Juvenile,Non Reproductive,,,Bat Population Database Published Data Project
+1119,00:00.0,"Floodplain of Niobrara River (Cherry), Cherry, United States","Cherry, US.NE",Nebraska,Myotis septentrionalis,Female,Adult,Lactating,,,Bat Population Database Published Data Project
+1121,00:00.0,"Ponca State Park (Dixon), Dixon, United States","Dixon, US.NE",Nebraska,Myotis septentrionalis,Male,Adult,Unknown,,,Bat Population Database Published Data Project
+1122,00:00.0,"Ponca State Park (Dixon), Dixon, United States","Dixon, US.NE",Nebraska,Myotis septentrionalis,Male,Adult,Unknown,,,Bat Population Database Published Data Project
+1124,00:00.0,"Larrabee Creek (Sheridan), Sheridan, United States","Sheridan, US.NE",Nebraska,Myotis septentrionalis,Female,Adult,Post Lactating,,,Bat Population Database Published Data Project
+1125,00:00.0,"Patton Creek (Sheridan), Sheridan, United States","Sheridan, US.NE",Nebraska,Myotis septentrionalis,Female,Juvenile,Non Reproductive,,,Bat Population Database Published Data Project
+1112,00:00.0,"Anderson Bridge Wildlife Management Area (Cherry), Cherry, United States","Cherry, US.NE",Nebraska,Myotis septentrionalis,Male,Adult,Unknown,,,Bat Population Database Published Data Project
+1126,00:00.0,"unknown creek (Knox), Knox, United States","Knox, US.NE",Nebraska,Myotis septentrionalis,Female,Adult,Lactating,,,Bat Population Database Published Data Project
+1127,00:00.0,"unknown creek (Knox), Knox, United States","Knox, US.NE",Nebraska,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,Bat Population Database Published Data Project
+1128,00:00.0,"unknown creek (Knox), Knox, United States","Knox, US.NE",Nebraska,Myotis septentrionalis,Female,Juvenile,Non Reproductive,,,Bat Population Database Published Data Project
+1129,00:00.0,"Schindler Creek (Knox), Knox, United States","Knox, US.NE",Nebraska,Myotis septentrionalis,Female,Adult,Lactating,,,Bat Population Database Published Data Project
+1130,00:00.0,"Schindler Creek (Knox), Knox, United States","Knox, US.NE",Nebraska,Myotis septentrionalis,Female,Adult,Lactating,,,Bat Population Database Published Data Project
+1131,00:00.0,"Schindler Creek (Knox), Knox, United States","Knox, US.NE",Nebraska,Myotis septentrionalis,Female,Adult,Lactating,,,Bat Population Database Published Data Project
+1132,00:00.0,"Schindler Creek (Knox), Knox, United States","Knox, US.NE",Nebraska,Myotis septentrionalis,Female,Juvenile,Non Reproductive,,,Bat Population Database Published Data Project
+1133,00:00.0,"Schindler Creek (Knox), Knox, United States","Knox, US.NE",Nebraska,Myotis septentrionalis,Female,Juvenile,Non Reproductive,,,Bat Population Database Published Data Project
+1134,00:00.0,"Schindler Creek (Knox), Knox, United States","Knox, US.NE",Nebraska,Myotis septentrionalis,Female,Juvenile,Non Reproductive,,,Bat Population Database Published Data Project
+1135,00:00.0,"Schindler Creek (Knox), Knox, United States","Knox, US.NE",Nebraska,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,Bat Population Database Published Data Project
+1136,00:00.0,"Schindler Creek (Knox), Knox, United States","Knox, US.NE",Nebraska,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,Bat Population Database Published Data Project
+1137,00:00.0,"Salt Creek (Lancaster), Lancaster, United States","Lancaster, US.NE",Nebraska,Myotis septentrionalis,Female,Adult,Lactating,,,Bat Population Database Published Data Project
+1138,00:00.0,"Salt Creek (Lancaster), Lancaster, United States","Lancaster, US.NE",Nebraska,Myotis septentrionalis,Female,Adult,Lactating,,,Bat Population Database Published Data Project
+1139,00:00.0,"Salt Creek (Lancaster), Lancaster, United States","Lancaster, US.NE",Nebraska,Myotis septentrionalis,Female,Adult,Lactating,,,Bat Population Database Published Data Project
+1140,00:00.0,"Salt Creek (Lancaster), Lancaster, United States","Lancaster, US.NE",Nebraska,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,Bat Population Database Published Data Project
+1113,00:00.0,"Anderson Bridge Wildlife Management Area (Cherry), Cherry, United States","Cherry, US.NE",Nebraska,Myotis septentrionalis,Female,Adult,Lactating,,,Bat Population Database Published Data Project
+1617,00:00.0,"Mine B (Fayette), New River Gorge National River, Fayette, United States, NPS, New River Gorge National River","Fayette, US.WV",West Virginia,Myotis septentrionalis,Female,Juvenile,Non Reproductive,,,Bat Population Database Published Data Project
+1627,00:00.0,"Mine C (Fayette), New River Gorge National River, Fayette, United States, NPS, New River Gorge National River","Fayette, US.WV",West Virginia,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,Bat Population Database Published Data Project
+1630,00:00.0,"Mine C (Fayette), New River Gorge National River, Fayette, United States, NPS, New River Gorge National River","Fayette, US.WV",West Virginia,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,Bat Population Database Published Data Project
+1631,00:00.0,"Mine C (Fayette), New River Gorge National River, Fayette, United States, NPS, New River Gorge National River","Fayette, US.WV",West Virginia,Myotis septentrionalis,Female,Adult,Unknown,,,Bat Population Database Published Data Project
+1637,00:00.0,"Mine D (Fayette), New River Gorge National River, Fayette, United States, NPS, New River Gorge National River","Fayette, US.WV",West Virginia,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,Bat Population Database Published Data Project
+1640,00:00.0,"Mine D (Fayette), New River Gorge National River, Fayette, United States, NPS, New River Gorge National River","Fayette, US.WV",West Virginia,Myotis septentrionalis,Male,Adult,Unknown,,,Bat Population Database Published Data Project
+1653,00:00.0,"Mine F (Fayette), New River Gorge National River, Fayette, United States, NPS, New River Gorge National River","Fayette, US.WV",West Virginia,Myotis septentrionalis,Male,Adult,Unknown,,,Bat Population Database Published Data Project
+1665,00:00.0,"Mine G (Fayette), New River Gorge National River, Fayette, United States, NPS, New River Gorge National River","Fayette, US.WV",West Virginia,Myotis septentrionalis,Male,Adult,Unknown,,,Bat Population Database Published Data Project
+1641,00:00.0,"Mine D (Fayette), New River Gorge National River, Fayette, United States, NPS, New River Gorge National River","Fayette, US.WV",West Virginia,Myotis septentrionalis,Male,Adult,Unknown,,,Bat Population Database Published Data Project
+1724,00:00.0,"Mine L (Fayette), New River Gorge National River, Fayette, United States, NPS, New River Gorge National River","Fayette, US.WV",West Virginia,Myotis septentrionalis,Male,Adult,Unknown,,,Bat Population Database Published Data Project
+1732,00:00.0,"Mine N (Fayette), New River Gorge National River, Fayette, United States, NPS, New River Gorge National River","Fayette, US.WV",West Virginia,Myotis septentrionalis,Male,Adult,Unknown,,,Bat Population Database Published Data Project
+1735,00:00.0,"Mine O (Fayette), New River Gorge National River, Fayette, United States, NPS, New River Gorge National River","Fayette, US.WV",West Virginia,Myotis septentrionalis,Male,Adult,Unknown,,,Bat Population Database Published Data Project
+1740,00:00.0,"Mine P (Fayette), New River Gorge National River, Fayette, United States, NPS, New River Gorge National River","Fayette, US.WV",West Virginia,Myotis septentrionalis,Female,Adult,Unknown,,,Bat Population Database Published Data Project
+1742,00:00.0,"Mine Q (Fayette), New River Gorge National River, Fayette, United States, NPS, New River Gorge National River","Fayette, US.WV",West Virginia,Myotis septentrionalis,Female,Adult,Unknown,,,Bat Population Database Published Data Project
+1743,00:00.0,"Mine R (Fayette), New River Gorge National River, Fayette, United States, NPS, New River Gorge National River","Fayette, US.WV",West Virginia,Myotis septentrionalis,Male,Adult,Unknown,,,Bat Population Database Published Data Project
+1748,00:00.0,"Mine S (Fayette), New River Gorge National River, Fayette, United States, NPS, New River Gorge National River","Fayette, US.WV",West Virginia,Myotis septentrionalis,Male,Adult,Unknown,,,Bat Population Database Published Data Project
+960298,00:00.0,"Turpin Barn (Hillsborough), Hillsborough, United States","Hillsborough, US.NH",New Hampshire,Myotis keenii septentrionalis,Female,Adult,Unknown,,,U.S. Bat Banding Program Data
+960299,00:00.0,"Turpin Barn (Hillsborough), Hillsborough, United States","Hillsborough, US.NH",New Hampshire,Myotis keenii septentrionalis,Female,Adult,Unknown,,,U.S. Bat Banding Program Data
+960300,00:00.0,"Turpin Barn (Hillsborough), Hillsborough, United States","Hillsborough, US.NH",New Hampshire,Myotis keenii septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+960301,00:00.0,"Turpin Barn (Hillsborough), Hillsborough, United States","Hillsborough, US.NH",New Hampshire,Myotis keenii septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+960302,00:00.0,"Turpin Barn (Hillsborough), Hillsborough, United States","Hillsborough, US.NH",New Hampshire,Myotis keenii septentrionalis,Female,Adult,Unknown,,,U.S. Bat Banding Program Data
+1412042,00:00.0,"1.5 mi. W. Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1412043,00:00.0,"1.5 mi. W. Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1412044,00:00.0,"1.5 mi. W. Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1412045,00:00.0,"1.5 mi. W. Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1412046,00:00.0,"1.5 mi. W. Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1412047,00:00.0,"1.5 mi. W. Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1412048,00:00.0,"1.5 mi. W. Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1412049,00:00.0,"1.5 mi. W. Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1412050,00:00.0,"1.5 mi. W. Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1412051,00:00.0,"1.5 mi. W. Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1412052,00:00.0,"1.5 mi. W. Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1412053,00:00.0,"1.5 mi. W. Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1412054,00:00.0,"1.5 mi. W. Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1412055,00:00.0,"1.5 mi. W. Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1412056,00:00.0,"1.5 mi. W. Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1412057,00:00.0,"1.5 mi. W. Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1412058,00:00.0,"1.5 mi. W. Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1412059,00:00.0,"1.5 mi. W. Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1412060,00:00.0,"1.5 mi. W. Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1412061,00:00.0,"1.5 mi. W. Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1412062,00:00.0,"1.5 mi. W. Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1412063,00:00.0,"1.5 mi. W. Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1412064,00:00.0,"1.5 mi. W. Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1412065,00:00.0,"1.5 mi. W. Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1438754,00:00.0,"Little Mammoth Cave (Campbell), Campbell, United States","Campbell, US.TN",Tennessee,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1438755,00:00.0,"Little Mammoth Cave (Campbell), Campbell, United States","Campbell, US.TN",Tennessee,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1438756,00:00.0,"Little Mammoth Cave (Campbell), Campbell, United States","Campbell, US.TN",Tennessee,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1438757,00:00.0,"Little Mammoth Cave (Campbell), Campbell, United States","Campbell, US.TN",Tennessee,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1438758,00:00.0,"Little Mammoth Cave (Campbell), Campbell, United States","Campbell, US.TN",Tennessee,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1438759,00:00.0,"Little Mammoth Cave (Campbell), Campbell, United States","Campbell, US.TN",Tennessee,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1438760,00:00.0,"Little Mammoth Cave (Campbell), Campbell, United States","Campbell, US.TN",Tennessee,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1438761,00:00.0,"Little Mammoth Cave (Campbell), Campbell, United States","Campbell, US.TN",Tennessee,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1438762,00:00.0,"Little Mammoth Cave (Campbell), Campbell, United States","Campbell, US.TN",Tennessee,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1438763,00:00.0,"Little Mammoth Cave (Campbell), Campbell, United States","Campbell, US.TN",Tennessee,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1438764,00:00.0,"Little Mammoth Cave (Campbell), Campbell, United States","Campbell, US.TN",Tennessee,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1438765,00:00.0,"Little Mammoth Cave (Campbell), Campbell, United States","Campbell, US.TN",Tennessee,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1438766,00:00.0,"Little Mammoth Cave (Campbell), Campbell, United States","Campbell, US.TN",Tennessee,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1439026,00:00.0,"2 mi NE of Elk Valley (Campbell), Campbell, United States","Campbell, US.TN",Tennessee,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1439027,00:00.0,"2 mi NE of Elk Valley (Campbell), Campbell, United States","Campbell, US.TN",Tennessee,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1439028,00:00.0,"2 mi NE of Elk Valley (Campbell), Campbell, United States","Campbell, US.TN",Tennessee,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1439065,00:00.0,"Little Mammoth Cave (Campbell), Campbell, United States","Campbell, US.TN",Tennessee,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1439066,00:00.0,"Little Mammoth Cave (Campbell), Campbell, United States","Campbell, US.TN",Tennessee,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1439067,00:00.0,"Little Mammoth Cave (Campbell), Campbell, United States","Campbell, US.TN",Tennessee,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1439068,00:00.0,"Little Mammoth Cave (Campbell), Campbell, United States","Campbell, US.TN",Tennessee,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1439069,00:00.0,"Little Mammoth Cave (Campbell), Campbell, United States","Campbell, US.TN",Tennessee,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1439070,00:00.0,"Little Mammoth Cave (Campbell), Campbell, United States","Campbell, US.TN",Tennessee,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1439452,00:00.0,"Cave (Pulaski), 1.2 mi W of Sloans Valley, Pulaski, United States","Pulaski, US.KY",Kentucky,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1439453,00:00.0,"Cave (Pulaski), 1.2 mi W of Sloans Valley, Pulaski, United States","Pulaski, US.KY",Kentucky,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1440639,00:00.0,"Mt. Aeolus Cave (Bennington), Bennington, United States","Bennington, US.VT",Vermont,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1440717,00:00.0,"Colossal Cave (Edmonson), Mammoth Cave National Park, Edmonson, United States","Edmonson, US.KY",Kentucky,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1441239,00:00.0,"Small's Cave (McMinn), McMinn, United States","McMinn, US.TN",Tennessee,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1441240,00:00.0,"Small's Cave (McMinn), McMinn, United States","McMinn, US.TN",Tennessee,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1441241,00:00.0,"Small's Cave (McMinn), McMinn, United States","McMinn, US.TN",Tennessee,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1441242,00:00.0,"Small's Cave (McMinn), McMinn, United States","McMinn, US.TN",Tennessee,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1441243,00:00.0,"Small's Cave (McMinn), McMinn, United States","McMinn, US.TN",Tennessee,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1441244,00:00.0,"Small's Cave (McMinn), McMinn, United States","McMinn, US.TN",Tennessee,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1441245,00:00.0,"Small's Cave (McMinn), McMinn, United States","McMinn, US.TN",Tennessee,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1441246,00:00.0,"Small's Cave (McMinn), McMinn, United States","McMinn, US.TN",Tennessee,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442234,00:00.0,"Endless Cave (Washington), Clifty Creek Glades, Washington, United States","Washington, US.IN",Indiana,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442235,00:00.0,"Endless Cave (Washington), Clifty Creek Glades, Washington, United States","Washington, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442236,00:00.0,"Endless Cave (Washington), Clifty Creek Glades, Washington, United States","Washington, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442237,00:00.0,"Endless Cave (Washington), Clifty Creek Glades, Washington, United States","Washington, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442241,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442242,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442243,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442244,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442245,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442246,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442247,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442248,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442249,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442250,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442251,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442252,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442253,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442254,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442255,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442256,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442257,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442258,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442259,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442260,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442261,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442262,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442263,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442264,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442265,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442266,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442267,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442268,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442269,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442270,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442271,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442272,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442273,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442274,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442275,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442276,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442277,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442278,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442279,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442280,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442281,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442282,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442283,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442284,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442285,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442286,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442287,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+1442288,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+1442289,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+1442290,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+1442291,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+1442292,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+1442310,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442311,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442312,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442313,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442314,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442315,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442316,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442317,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442318,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442530,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442531,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442532,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442533,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442534,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442535,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442536,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442537,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442538,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442539,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442540,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442541,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442542,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442543,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442544,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442545,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442546,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442547,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442584,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442585,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442586,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442587,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442588,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442589,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442590,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442591,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442592,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442593,00:00.0,"Ray's Cave (Greene), Greene, United States","Greene, US.IN",Indiana,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442674,00:00.0,"Donnehue's Cave (Lawrence), Lawrence, United States","Lawrence, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442706,00:00.0,"Donnehue's Cave (Lawrence), Lawrence, United States","Lawrence, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442707,00:00.0,"Donnehue's Cave (Lawrence), Lawrence, United States","Lawrence, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442708,00:00.0,"Donnehue's Cave (Lawrence), Lawrence, United States","Lawrence, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1442709,00:00.0,"Donnehue's Cave (Lawrence), Lawrence, United States","Lawrence, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1813439,00:00.0,"Mt. Aeolus Cave (Bennington), Bennington, United States","Bennington, US.VT",Vermont,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1814136,00:00.0,"Mt. Aeolus Cave (Bennington), Bennington, United States","Bennington, US.VT",Vermont,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1814137,00:00.0,"Mt. Aeolus Cave (Bennington), Bennington, United States","Bennington, US.VT",Vermont,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1814138,00:00.0,"Mt. Aeolus Cave (Bennington), Bennington, United States","Bennington, US.VT",Vermont,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1814139,00:00.0,"Mt. Aeolus Cave (Bennington), Bennington, United States","Bennington, US.VT",Vermont,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1814140,00:00.0,"Mt. Aeolus Cave (Bennington), Bennington, United States","Bennington, US.VT",Vermont,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1814141,00:00.0,"Mt. Aeolus Cave (Bennington), Bennington, United States","Bennington, US.VT",Vermont,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1814153,00:00.0,"Mt. Aeolus Cave (Bennington), Bennington, United States","Bennington, US.VT",Vermont,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+1814154,00:00.0,"Mt. Aeolus Cave (Bennington), Bennington, United States","Bennington, US.VT",Vermont,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+1815374,00:00.0,"Mt. Aeolus Cave (Bennington), Bennington, United States","Bennington, US.VT",Vermont,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1815655,00:00.0,"Plymouth (Windsor), Windsor, United States","Windsor, US.VT",Vermont,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1815656,00:00.0,"Plymouth (Windsor), Windsor, United States","Windsor, US.VT",Vermont,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1815657,00:00.0,"Plymouth (Windsor), Windsor, United States","Windsor, US.VT",Vermont,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1815658,00:00.0,"Plymouth (Windsor), Windsor, United States","Windsor, US.VT",Vermont,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1815659,00:00.0,"Plymouth (Windsor), Windsor, United States","Windsor, US.VT",Vermont,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1815660,00:00.0,"Plymouth (Windsor), Windsor, United States","Windsor, US.VT",Vermont,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1815661,00:00.0,"Plymouth (Windsor), Windsor, United States","Windsor, US.VT",Vermont,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1815662,00:00.0,"Plymouth (Windsor), Windsor, United States","Windsor, US.VT",Vermont,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1815663,00:00.0,"Plymouth (Windsor), Windsor, United States","Windsor, US.VT",Vermont,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1815664,00:00.0,"Plymouth (Windsor), Windsor, United States","Windsor, US.VT",Vermont,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1815665,00:00.0,"Plymouth (Windsor), Windsor, United States","Windsor, US.VT",Vermont,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1815666,00:00.0,"Plymouth (Windsor), Windsor, United States","Windsor, US.VT",Vermont,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1815667,00:00.0,"Plymouth (Windsor), Windsor, United States","Windsor, US.VT",Vermont,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1815677,00:00.0,"Mt. Aeolus Cave (Bennington), Bennington, United States","Bennington, US.VT",Vermont,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1815891,00:00.0,"Mt. Aeolus Cave (Bennington), Bennington, United States","Bennington, US.VT",Vermont,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816169,00:00.0,"Mt. Aeolus Cave (Bennington), Bennington, United States","Bennington, US.VT",Vermont,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816170,00:00.0,"Mt. Aeolus Cave (Bennington), Bennington, United States","Bennington, US.VT",Vermont,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816171,00:00.0,"Mt. Aeolus Cave (Bennington), Bennington, United States","Bennington, US.VT",Vermont,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816172,00:00.0,"Mt. Aeolus Cave (Bennington), Bennington, United States","Bennington, US.VT",Vermont,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816173,00:00.0,"Mt. Aeolus Cave (Bennington), Bennington, United States","Bennington, US.VT",Vermont,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+1816174,00:00.0,"Mt. Aeolus Cave (Bennington), Bennington, United States","Bennington, US.VT",Vermont,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+1816175,00:00.0,"Mt. Aeolus Cave (Bennington), Bennington, United States","Bennington, US.VT",Vermont,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816176,00:00.0,"Mt. Aeolus Cave (Bennington), Bennington, United States","Bennington, US.VT",Vermont,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816177,00:00.0,"Mt. Aeolus Cave (Bennington), Bennington, United States","Bennington, US.VT",Vermont,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816178,00:00.0,"Mt. Aeolus Cave (Bennington), Bennington, United States","Bennington, US.VT",Vermont,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816950,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816951,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816952,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816953,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816954,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816955,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816956,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816957,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816958,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816959,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816960,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816961,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816962,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816963,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816964,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816965,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816966,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816967,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816968,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816969,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816970,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816971,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816972,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816973,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816974,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816975,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816976,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816977,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816978,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816979,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816980,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816981,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816982,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816983,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816984,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816985,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816986,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816987,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816988,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816989,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816990,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816991,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816992,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816993,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816994,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816995,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816996,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816997,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816998,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1816999,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817000,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817001,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817002,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817003,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817004,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817005,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817006,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817007,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817008,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817009,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817010,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817011,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817012,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817013,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817014,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817015,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817016,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817017,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817018,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817019,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817020,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817021,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817022,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817023,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817024,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817025,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817026,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817027,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817028,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817029,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817030,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817031,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817032,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817033,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817034,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817035,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817036,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817037,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817038,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817039,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817040,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817041,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817042,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817043,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817044,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817045,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817046,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817047,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817048,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817049,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817050,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817051,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817088,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817089,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817094,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817097,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817098,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817099,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817100,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817101,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817102,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817103,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817104,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817105,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817106,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817107,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817108,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817109,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817110,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817111,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817112,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817113,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817114,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817115,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817116,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817117,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817118,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817119,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817120,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817121,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817122,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817123,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817124,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817125,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817126,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817127,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817128,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817129,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817130,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817131,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817132,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817133,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817135,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817136,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817137,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817138,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817139,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817140,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817141,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817144,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817149,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817152,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817155,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817156,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817158,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817159,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817160,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817161,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817162,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817163,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817164,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817165,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817166,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817167,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817168,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817169,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817170,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817171,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817172,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817173,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817175,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817176,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817177,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817178,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817179,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817180,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817181,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817182,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817183,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817184,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817185,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817186,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817187,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817188,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817189,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817190,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817191,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817223,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817386,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817387,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817388,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817390,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817391,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817393,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817394,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817398,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817416,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817418,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817444,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817445,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817449,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817451,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+1817452,00:00.0,"0.5 mi N, 1.5 mi W of Blue Rapids (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2053015,00:00.0,"Tunnel Cave (Jefferson), Clifty Falls State Park, Jefferson, United States","Jefferson, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2053016,00:00.0,"Tunnel Cave (Jefferson), Clifty Falls State Park, Jefferson, United States","Jefferson, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2054316,00:00.0,"Wyandotte Cave (Crawford), Wyandotte Caves State Recreation Area, Crawford, United States","Crawford, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2055256,00:00.0,"Wind Cave (Breckinridge), Big Spring, Breckinridge, United States","Breckinridge, US.KY",Kentucky,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2055257,00:00.0,"Wind Cave (Breckinridge), Big Spring, Breckinridge, United States","Breckinridge, US.KY",Kentucky,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2055554,00:00.0,"Wind Cave (Breckinridge), Big Spring, Breckinridge, United States","Breckinridge, US.KY",Kentucky,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2055742,00:00.0,"Wind Cave (Breckinridge), Big Spring, Breckinridge, United States","Breckinridge, US.KY",Kentucky,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2055808,00:00.0,"Wind Cave (Breckinridge), Big Spring, Breckinridge, United States","Breckinridge, US.KY",Kentucky,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2055887,00:00.0,"Wind Cave (Breckinridge), Big Spring, Breckinridge, United States","Breckinridge, US.KY",Kentucky,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2055889,00:00.0,"Wind Cave (Breckinridge), Big Spring, Breckinridge, United States","Breckinridge, US.KY",Kentucky,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2055894,00:00.0,"Wind Cave (Breckinridge), Big Spring, Breckinridge, United States","Breckinridge, US.KY",Kentucky,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2055897,00:00.0,"Wind Cave (Breckinridge), Big Spring, Breckinridge, United States","Breckinridge, US.KY",Kentucky,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2055899,00:00.0,"Wind Cave (Breckinridge), Big Spring, Breckinridge, United States","Breckinridge, US.KY",Kentucky,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2056134,00:00.0,"Wind Cave (Breckinridge), Big Spring, Breckinridge, United States","Breckinridge, US.KY",Kentucky,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2056135,00:00.0,"Wind Cave (Breckinridge), Big Spring, Breckinridge, United States","Breckinridge, US.KY",Kentucky,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2056675,00:00.0,"Wind Cave (Breckinridge), Big Spring, Breckinridge, United States","Breckinridge, US.KY",Kentucky,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2056676,00:00.0,"Wind Cave (Breckinridge), Big Spring, Breckinridge, United States","Breckinridge, US.KY",Kentucky,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2056677,00:00.0,"Wind Cave (Breckinridge), Big Spring, Breckinridge, United States","Breckinridge, US.KY",Kentucky,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2056678,00:00.0,"Wind Cave (Breckinridge), Big Spring, Breckinridge, United States","Breckinridge, US.KY",Kentucky,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2056679,00:00.0,"Wind Cave (Breckinridge), Big Spring, Breckinridge, United States","Breckinridge, US.KY",Kentucky,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2057130,00:00.0,"Wyandotte Cave (Crawford), Wyandotte Caves State Recreation Area, Crawford, United States","Crawford, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2058049,00:00.0,"Wyandotte Cave (Crawford), Wyandotte Caves State Recreation Area, Crawford, United States","Crawford, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2058072,00:00.0,"Wyandotte Cave (Crawford), Wyandotte Caves State Recreation Area, Crawford, United States","Crawford, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2058073,00:00.0,"Wyandotte Cave (Crawford), Wyandotte Caves State Recreation Area, Crawford, United States","Crawford, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2058074,00:00.0,"Wyandotte Cave (Crawford), Wyandotte Caves State Recreation Area, Crawford, United States","Crawford, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2058075,00:00.0,"Wyandotte Cave (Crawford), Wyandotte Caves State Recreation Area, Crawford, United States","Crawford, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2058076,00:00.0,"Wyandotte Cave (Crawford), Wyandotte Caves State Recreation Area, Crawford, United States","Crawford, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2058077,00:00.0,"Wyandotte Cave (Crawford), Wyandotte Caves State Recreation Area, Crawford, United States","Crawford, US.IN",Indiana,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2059081,00:00.0,"Wyandotte Cave (Crawford), Wyandotte Caves State Recreation Area, Crawford, United States","Crawford, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2059082,00:00.0,"Wyandotte Cave (Crawford), Wyandotte Caves State Recreation Area, Crawford, United States","Crawford, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2059092,00:00.0,"Wyandotte Cave (Crawford), Wyandotte Caves State Recreation Area, Crawford, United States","Crawford, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2059093,00:00.0,"Wyandotte Cave (Crawford), Wyandotte Caves State Recreation Area, Crawford, United States","Crawford, US.IN",Indiana,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2596604,00:00.0,"South Temple Cave (Berks), Berks, United States","Berks, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2596615,00:00.0,"Mansfield Dam (Travis), Travis, United States","Travis, US.TX",Texas,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2596618,00:00.0,"South Temple Cave (Berks), Berks, United States","Berks, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2597000,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2597001,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2597002,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2597003,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2597004,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2597005,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2597006,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2597007,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2597008,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2597009,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2597010,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2597011,00:00.0,"Allenwood (Union), Union, United States","Union, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2597468,00:00.0,"Woodward Cave (Centre), Centre, United States","Centre, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2597469,00:00.0,"Woodward Cave (Centre), Centre, United States","Centre, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2599508,00:00.0,"South Temple Cave (Berks), Berks, United States","Berks, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2599758,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600558,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600634,00:00.0,"Durham Iron Mines (Bucks), Bucks, United States","Bucks, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600786,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600787,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600788,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600789,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600790,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600791,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600792,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600793,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600794,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600795,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600796,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600797,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600798,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600799,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600800,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600801,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600802,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600803,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600804,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600805,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600806,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600807,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600808,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600809,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600810,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600811,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600812,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600813,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600814,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600815,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600816,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600817,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600818,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600819,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600820,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600926,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600927,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600931,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600932,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600933,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600934,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600935,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600936,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600937,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600977,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600978,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600979,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600980,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600981,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600982,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600983,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600984,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600985,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600986,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600988,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600989,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600990,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600991,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600992,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2600993,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601012,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601013,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601087,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601238,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601239,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601240,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601241,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601242,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601243,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601244,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601261,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601262,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601263,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601264,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601265,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601266,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601267,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601268,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601269,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601270,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601271,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601272,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601273,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601274,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601275,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601276,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601277,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601278,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601279,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601280,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601281,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601282,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601283,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601284,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601285,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601286,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601287,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601288,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601289,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601290,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601291,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601292,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601293,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601294,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601295,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601296,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601297,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601298,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601299,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601300,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601301,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601302,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601303,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601304,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601305,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601306,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601307,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601308,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601312,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601313,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601314,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601315,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601316,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601317,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601318,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601319,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601320,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601321,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601322,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601323,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601511,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2601512,00:00.0,"Aitkin Cave (Mifflin), Mifflin, United States","Mifflin, US.PA",Pennsylvania,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2687336,00:00.0,"Boone, 1.5 mi S, 2 mi W of (Boone), Boone, United States","Boone, US.IA",Iowa,Myotis septentrionalis,Female,Adult,Pregnant,,,U.S. Bat Banding Program Data
+2687343,00:00.0,"Ledges State Park (Boone), Boone, United States","Boone, US.IA",Iowa,Myotis septentrionalis,Female,Adult,Pregnant,,,U.S. Bat Banding Program Data
+2687345,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687346,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687347,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687348,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687350,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687351,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687352,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687353,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687354,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687355,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687356,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687357,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687358,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687359,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687360,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687361,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687362,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687363,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687364,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687365,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687366,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687367,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687368,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687369,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687370,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687634,00:00.0,"Ledges State Park (Boone), Boone, United States","Boone, US.IA",Iowa,Myotis septentrionalis,Female,Adult,Pregnant,,,U.S. Bat Banding Program Data
+2687637,00:00.0,"Ledges State Park (Boone), Boone, United States","Boone, US.IA",Iowa,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687804,00:00.0,"McHose Park (Boone), Boone, United States","Boone, US.IA",Iowa,Myotis septentrionalis,Female,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687874,00:00.0,"Ledges State Park (Boone), Boone, United States","Boone, US.IA",Iowa,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687881,00:00.0,"Ledges State Park (Boone), Boone, United States","Boone, US.IA",Iowa,Myotis septentrionalis,Female,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2687888,00:00.0,"Ledges State Park (Boone), Boone, United States","Boone, US.IA",Iowa,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687890,00:00.0,"Ledges State Park (Boone), Boone, United States","Boone, US.IA",Iowa,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687893,00:00.0,"Ledges State Park (Boone), Boone, United States","Boone, US.IA",Iowa,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687894,00:00.0,"Ledges State Park (Boone), Boone, United States","Boone, US.IA",Iowa,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2687898,00:00.0,"Boone, 1.5 mi S, 2 mi W of (Boone), Boone, United States","Boone, US.IA",Iowa,Myotis septentrionalis,Female,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687900,00:00.0,"Boone, 1.5 mi S, 2 mi W of (Boone), Boone, United States","Boone, US.IA",Iowa,Myotis septentrionalis,Female,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687907,00:00.0,"Ledges State Park (Boone), Boone, United States","Boone, US.IA",Iowa,Myotis septentrionalis,Female,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2687920,00:00.0,"Ledges State Park (Boone), Boone, United States","Boone, US.IA",Iowa,Myotis septentrionalis,Female,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687926,00:00.0,"Ledges State Park (Boone), Boone, United States","Boone, US.IA",Iowa,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687940,00:00.0,"Ledges State Park (Boone), Boone, United States","Boone, US.IA",Iowa,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2687945,00:00.0,"Ledges State Park (Boone), Boone, United States","Boone, US.IA",Iowa,Myotis septentrionalis,Female,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687967,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2687968,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687969,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2687970,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2687971,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2687972,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2687973,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2687977,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2687978,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687982,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2687983,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687984,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2687987,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2687989,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687991,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2687992,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687994,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2687995,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687997,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2687998,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2687999,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2688000,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2688002,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2688004,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2688005,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2688006,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2688008,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2688009,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2688010,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2688011,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2688012,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2688013,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2688014,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2688015,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Adult,Unknown,,,U.S. Bat Banding Program Data
+2688016,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2688017,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2688018,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2688019,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Adult,Unknown,,,U.S. Bat Banding Program Data
+2688028,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2688030,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2688033,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2688035,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2688036,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2688037,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2688038,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2688039,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2688040,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2688041,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2688045,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2688048,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2688049,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2688050,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2688051,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2688052,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2688053,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2688054,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Female,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2688055,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2688056,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2688060,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2688061,00:00.0,"Blue Rapids, 0.5 mi N and 1.5 mi W of (Marshall), Marshall, United States","Marshall, US.KS",Kansas,Myotis septentrionalis,Male,Juvenile,Non Reproductive,,,U.S. Bat Banding Program Data
+2688232,00:00.0,"Caves in Glen Park (Jefferson), Jefferson, United States","Jefferson, US.NY",New York,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2689487,00:00.0,"Twin Culverts Cave (Pike), SW 1/4 Sec. 17, T7S, R2W, Pike, United States","Pike, US.IL",Illinois,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2689488,00:00.0,"Twin Culverts Cave (Pike), SW 1/4 Sec. 17, T7S, R2W, Pike, United States","Pike, US.IL",Illinois,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2689489,00:00.0,"Twin Culverts Cave (Pike), SW 1/4 Sec. 17, T7S, R2W, Pike, United States","Pike, US.IL",Illinois,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2689490,00:00.0,"Twin Culverts Cave (Pike), SW 1/4 Sec. 17, T7S, R2W, Pike, United States","Pike, US.IL",Illinois,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2689491,00:00.0,"Twin Culverts Cave (Pike), SW 1/4 Sec. 17, T7S, R2W, Pike, United States","Pike, US.IL",Illinois,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2689492,00:00.0,"Twin Culverts Cave (Pike), SW 1/4 Sec. 17, T7S, R2W, Pike, United States","Pike, US.IL",Illinois,Myotis septentrionalis,Male,Adult,Unknown,,,U.S. Bat Banding Program Data
+2689493,00:00.0,"Twin Culverts Cave (Pike), SW 1/4 Sec. 17, T7S, R2W, Pike, United States","Pike, US.IL",Illinois,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2689494,00:00.0,"Twin Culverts Cave (Pike), SW 1/4 Sec. 17, T7S, R2W, Pike, United States","Pike, US.IL",Illinois,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2689495,00:00.0,"Twin Culverts Cave (Pike), SW 1/4 Sec. 17, T7S, R2W, Pike, United States","Pike, US.IL",Illinois,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2689496,00:00.0,"Twin Culverts Cave (Pike), SW 1/4 Sec. 17, T7S, R2W, Pike, United States","Pike, US.IL",Illinois,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2689497,00:00.0,"Twin Culverts Cave (Pike), SW 1/4 Sec. 17, T7S, R2W, Pike, United States","Pike, US.IL",Illinois,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2689498,00:00.0,"Twin Culverts Cave (Pike), SW 1/4 Sec. 17, T7S, R2W, Pike, United States","Pike, US.IL",Illinois,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2689499,00:00.0,"Twin Culverts Cave (Pike), SW 1/4 Sec. 17, T7S, R2W, Pike, United States","Pike, US.IL",Illinois,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2689500,00:00.0,"Twin Culverts Cave (Pike), SW 1/4 Sec. 17, T7S, R2W, Pike, United States","Pike, US.IL",Illinois,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691668,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691669,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691670,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691671,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691672,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691673,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691674,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691675,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691676,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691677,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691678,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691679,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691680,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691681,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691682,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691683,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691684,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691685,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691686,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691687,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691688,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691689,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Unknown,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691690,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Unknown,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691691,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Unknown,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691692,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691693,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691694,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691695,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691696,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691697,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691698,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691699,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691700,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691701,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691702,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691703,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691704,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691705,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691706,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691707,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691708,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691709,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691710,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691711,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691712,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691713,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691714,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691715,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691716,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691717,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691718,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691719,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691720,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691721,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691722,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691723,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691724,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691725,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691726,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691727,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691728,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691729,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691730,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691731,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691732,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691733,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691734,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691735,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691736,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691737,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691738,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691739,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691740,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691741,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691742,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691743,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691744,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691745,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691746,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691747,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691748,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691749,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691750,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691751,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691752,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691753,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691754,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691755,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691756,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691757,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691758,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691759,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691760,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691761,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691762,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691763,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691764,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691765,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691766,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691767,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691768,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691769,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691770,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691771,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691772,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691773,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2691774,00:00.0,"Mackinac Island (Mackinac), Mackinac, United States","Mackinac, US.MI",Michigan,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2696544,00:00.0,"Mud Sink (Franklin), Franklin, United States","Franklin, US.MO",Missouri,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2696545,00:00.0,"Mud Sink (Franklin), Franklin, United States","Franklin, US.MO",Missouri,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2696546,00:00.0,"Marblehead Quarry (Adams), NE 1/4, Sec.6, T25, R8W, Adams, United States","Adams, US.IL",Illinois,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2696547,00:00.0,"Marblehead Quarry (Adams), NE 1/4, Sec.6, T25, R8W, Adams, United States","Adams, US.IL",Illinois,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2696548,00:00.0,"Marblehead Quarry (Adams), NE 1/4, Sec.6, T25, R8W, Adams, United States","Adams, US.IL",Illinois,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2696549,00:00.0,"Burton Cave (Adams), Adams, United States","Adams, US.IL",Illinois,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2696550,00:00.0,"Burton Cave (Adams), Adams, United States","Adams, US.IL",Illinois,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2696551,00:00.0,"Marblehead Quarry (Adams), NE 1/4, Sec.6, T25, R8W, Adams, United States","Adams, US.IL",Illinois,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2696552,00:00.0,"Baby Mine (Yuma), Kofa Mountains, Yuma, United States","Yuma, US.AZ",Arizona,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2696553,00:00.0,"Baby Mine (Yuma), Kofa Mountains, Yuma, United States","Yuma, US.AZ",Arizona,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2696554,00:00.0,"Groaning Cave near Coffee Pot Springs (Eagle), White River National Forest, Eagle, United States","Eagle, US.CO",Colorado,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2696555,00:00.0,"Groaning Cave near Coffee Pot Springs (Eagle), White River National Forest, Eagle, United States","Eagle, US.CO",Colorado,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2696556,00:00.0,"Groaning Cave near Coffee Pot Springs (Eagle), White River National Forest, Eagle, United States","Eagle, US.CO",Colorado,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2696557,00:00.0,"Groaning Cave near Coffee Pot Springs (Eagle), White River National Forest, Eagle, United States","Eagle, US.CO",Colorado,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2696558,00:00.0,"Mud Sink (Franklin), Franklin, United States","Franklin, US.MO",Missouri,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2696559,00:00.0,"Mud Sink (Franklin), Franklin, United States","Franklin, US.MO",Missouri,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2696560,00:00.0,"Mud Sink (Franklin), Franklin, United States","Franklin, US.MO",Missouri,Myotis septentrionalis,Female,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2696561,00:00.0,"Burton Cave (Adams), Adams, United States","Adams, US.IL",Illinois,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
+2696562,00:00.0,"Bluebird Mine (Pima), Growler Mountains, Pima, United States","Pima, US.AZ",Arizona,Myotis septentrionalis,Male,Unknown,Unknown,,,U.S. Bat Banding Program Data
